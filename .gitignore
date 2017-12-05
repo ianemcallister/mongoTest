@@ -1,0 +1,15 @@
+#ignore config files
+config
+
+#ignore JSON files
+
+#ignore any images
+
+#ignore node modules
+node_modules
+
+#ignore any logs
+*.log
+
+#ignore the library files
+lib

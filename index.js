@@ -1,2 +1,6 @@
-//this is the etnry point
-console.log('testing testing 123');
+/*
+*
+*	This is a test module to try out using mongo DB
+*
+*/
+
